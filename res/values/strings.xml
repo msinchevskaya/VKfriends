@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VKfriends</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search user</string>
+    <string name="network_error">Network error</string>
+    <string name="invalid_id">Invalid id</string>
+
+</resources>
